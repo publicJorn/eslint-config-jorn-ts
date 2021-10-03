@@ -1,0 +1,33 @@
+{
+  "name": "eslint-config-jorn-ts",
+  "version": "0.0.1",
+  "description": "ESLint configuration for safe and beautiful code",
+  "main": "index.js",
+  "author": "Jorn Luiten",
+  "license": "MIT",
+  "peerDependencies": {
+    "@typescript-eslint/parser": "^4",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-config-standard": "^16.0.0",
+    "eslint-config-standard-with-typescript": "^21.0.0",
+    "eslint-plugin-import": "^2.24.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "eslint-plugin-standard": "^5.0.0",
+    "prettier": "^2.4.0",
+    "typescript": "^4"
+  },
+  "keywords": [
+    "eslint",
+    "eslintConfig",
+    "react",
+    "standard-js",
+    "prettier"
+  ],
+  "homepage": "https://github.com/publicJorn/eslint-config-jorn",
+  "bugs": {
+    "url": "https://github.com/publicJorn/eslint-config-jorn/issues"
+  }
+}
