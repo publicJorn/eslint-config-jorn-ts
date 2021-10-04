@@ -15,7 +15,6 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-promise": "^5.1.0",
-    "eslint-plugin-standard": "^5.0.0",
     "prettier": "^2.4.0",
     "typescript": "^4"
   },
@@ -23,11 +22,12 @@
     "eslint",
     "eslintConfig",
     "react",
-    "standard-js",
-    "prettier"
+    "standard",
+    "prettier",
+    "typescript"
   ],
-  "homepage": "https://github.com/publicJorn/eslint-config-jorn",
+  "homepage": "https://github.com/publicJorn/eslint-config-jorn-ts",
   "bugs": {
-    "url": "https://github.com/publicJorn/eslint-config-jorn/issues"
+    "url": "https://github.com/publicJorn/eslint-config-jorn-ts/issues"
   }
 }
