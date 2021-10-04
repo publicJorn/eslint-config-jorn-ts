@@ -11,24 +11,16 @@ This config gives you eslint configured with:
 npm install eslint-config-jorn-ts
 ```
 
-Then, either link to the config via `package.json`:
-
-```json
-"eslintConfig": {
-  "extends": "eslint-config-jorn-ts"
-}
-```
-
-Or, if you want to add rules of your own:
-
-- Add `.eslintrc.js` to your project root:   
+Add `.eslintrc.js` to your project root..  
+  
   ```js
   module.exports = {
     root: true,
     extends: 'eslint-config-jorn-ts',
   }
   ```
-- And update `tsconfig.json` with:  
+
+..and update `tsconfig.json` with:  
   
   ```json
   "include": [

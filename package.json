@@ -1,10 +1,16 @@
 {
   "name": "eslint-config-jorn-ts",
-  "version": "0.0.1",
+  "version": "0.0.0-development",
   "description": "ESLint configuration for safe and beautiful code",
   "main": "index.js",
   "author": "Jorn Luiten",
   "license": "MIT",
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "devDependencies": {
+    "semantic-release": "18.0.0"
+  },
   "peerDependencies": {
     "@typescript-eslint/parser": "^4",
     "eslint": "^7.32.0",
@@ -29,5 +35,9 @@
   "homepage": "https://github.com/publicJorn/eslint-config-jorn-ts",
   "bugs": {
     "url": "https://github.com/publicJorn/eslint-config-jorn-ts/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/publicJorn/eslint-config-jorn-ts.git"
   }
 }
