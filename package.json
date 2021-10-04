@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-jorn-ts",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "ESLint configuration for safe and beautiful code",
   "main": "index.js",
   "author": "Jorn Luiten",
